@@ -1,0 +1,15 @@
+@media (max-width: 1400px) {
+    .country-hotels img {
+        height: 240px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .country-hotels img {
+        height: 180px;
+    }
+    .hospital-btn:hover{
+        background-color: rgba(255, 255, 255, 0.121);
+        transform: scale(1);
+    }
+}
